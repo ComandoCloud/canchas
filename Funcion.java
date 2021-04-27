@@ -54,7 +54,7 @@ public class Funcion {
 		int indice=0;
 		int indice2=0;
 		boolean esDigito=false;
-
+		//comentario
 		for(int x=0;x<a.length()-1;x++)
 		{
 			letraActual=a.charAt(x);
